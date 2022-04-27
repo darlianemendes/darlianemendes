@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Buscando melhorar sempre! 1% melhor a cada dia.
 - 🎓 &nbsp; Cursando **Análise e Desenvolvimento de Sistemas** na <a href="https://estacio.br/">Estácio de Sá</a>.
 - 💼 &nbsp; Trabalhando como **Estágiária da Área de Desenvolvimento BackEnd**.
-- 🌱 &nbsp; Aprendendo mais sobre **Java, Kubernets, Spring Boot React e mais**.
+- 🌱 &nbsp; Aprendendo mais sobre **Java, Kubernets, Spring Boot e mais**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
